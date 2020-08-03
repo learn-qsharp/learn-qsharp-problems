@@ -1,0 +1,5 @@
+name: Initialize Qubit
+credits: Adapted from Microsoft Quantum Katas
+difficulty: easy
+tags:
+  - measurements
